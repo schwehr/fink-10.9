@@ -1,0 +1,12 @@
+Info2:<<
+Package: uncrustify
+Version: 0.60
+Revision: 1
+Source: mirror:sourceforge:%n/%n-%v.tar.gz
+Source-MD5: 0467a60b7c6f108259e69a90120afd4a
+
+Maintainer: Kurt Schwehr <goatbar@users.sf.net>
+Description: Source code cleaner
+License: GPL
+
+<<
